@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apprentice's faithful monitor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25730</idno>
+            <idno type="STC">Wing A3584A</idno>
+            <idno type="STC">ESTC R213516</idno>
+            <idno type="EEBO-CITATION">99825880</idno>
+            <idno type="PROQUEST">99825880</idno>
+            <idno type="VID">30271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1804:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apprentice's faithful monitor</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A series of moral exhortations.</note>
+                  <note>With a docket title on verso of last leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apprentices --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Moral education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30271:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE</hi> Apprentice's faithful Monitor.</head>
+            <p>AS ever you hope to have that Favour of God, which is better than Life, in your Apprenticeſhip, and his Bleſſing on your Labours, when you come in<g ref="char:EOLhyphen"/>to the World for your ſelf; be very careful to diſcharge thoſe Duties which you owe to your Maſter or Miſtreſs.</p>
+            <p>
+               <hi>In order to which,</hi>
+            </p>
+            <p>Let this great Truth be impreſt upon your Mind, That you are continually uner the All-ſeeing Eye of God, who is the Searcher of Hearts, and Trier of Reins, and knows your very Thoughts afar off; and then you will obey your Maſter, not <hi>with Eye-Service, but in Singleneſs of Heart, fearing God.</hi>
+            </p>
+            <p>Be careful to obſerve thoſe Directions which you may receive from your Maſter for the Learning of your Trade; be diligent to improve them, faithful in the Diſcharge of any Truſt repoſed in you, that you may juſtly obtain that valuable Title of a Profitable Servant.</p>
+            <p>Abſent not your ſelf at any Time, upon any Pretence whatſoever, from the Service of your Maſter or Miſtreſs, without their Leave.</p>
+            <p>Whenever you are ſent upon any Errand, ſtay no longer than the Buſineſs does require, remembring that the Time is not your own, but his to whom you are Bound. Carefully avoid all wicked Company, (that Snare of the Devil) whereby young Men are often drawn to the Commiſſion of expenſive Sins; to maintain which, they defraud their Maſters, and take ſuch Courſes that they are cut off by the Hand of Publick Juſtice.</p>
+            <p>Whenever you are guilty of a Fault, let not the De<g ref="char:EOLhyphen"/>vil prevail on you to conceal it, by telling a Lye;
+<pb n="2" facs="tcp:30271:2"/>which will pave the way to the greateſt Faults you can be guilty of: But much rather chuſe, by ingenuous Confeſſion, and ſincere Promiſe of Amendment, to ob<g ref="char:EOLhyphen"/>tain Pardon. A Caution againſt this Sin is well ex<g ref="char:EOLhyphen"/>preſs'd by Mr. <hi>Herbert,</hi>
+               <q>
+                  <l>Dare to be true, nothing can need a Lye,</l>
+                  <l>The Fault which needs it moſt, grows two thereby.</l>
+               </q>
+            </p>
+            <p>Still keep up a dutiful Regard to your Parents, if alive, remembring the Danger of forfeiting their Bleſ<g ref="char:EOLhyphen"/>ſing, and what you owe them for their Endeavours to help you out into the World. Your doing well will be their Comfort as well as your own. If they are gone, forget not what you owe to thoſe that take Care of you in their ſtead, and let them have the Comfort of ſeeing that their Concern for you, for your Parents Sake, has a good Effect.</p>
+            <p>Above all, neglect not the Duties you owe to God. Begin and end every Day with him by Prayer; and if at any Time you want the Conveniency of a private Retirement, yet omit not to lift up your Heart to God, begging the Pardon of your Sins, and the Sanctification of your Nature.</p>
+            <p>In the Morning, pray that you may be kept that Day from all Evil, eſpecially from the Evil of Sin. Be in the Fear of the Lord all the Day long; and before you lie down at Night, be thankful for the Mercies of the Day paſt, and beg of your heavenly Father that He would watch over you for good, <hi>&amp;c.</hi> You may eaſily purchaſe various Helps to aſſiſt you in this Duty.</p>
+            <p>Endeavour every Day to read ſome Portion of God's Word, always remembring to beg a Bleſſing on what you ſhall read; when you are alone, meditate upon what you have at any Time heard, or read, and beg of God, that he would by his Spirit ſo impreſs thoſe Truths upon your Heart, that the Fruit and the Power of them may appear in your Life and Coverſation.</p>
+            <pb n="3" facs="tcp:30271:2"/>
+            <p>When you have faithfully ſerv'd your Maſter Six Days in the Week, remember to keep holy the Seventh Day, which, both by divine and humane Authority, is ſet apart for the Service of God. Before you go to attend upon the publick Worſhip of God, beg a prepared Heart, with what<g ref="char:EOLhyphen"/>ever elſe is needful for the ſaving and profitable Hearing of his Word. Preſume not to miſpend any part of that Day, which ſo many have complained of as the Foun<g ref="char:EOLhyphen"/>dation of their Ruine, when they have come to an un<g ref="char:EOLhyphen"/>timely End; but make Conſcience of ſpending the Even<g ref="char:EOLhyphen"/>ing in recollecting of what you have heard, in Prayer, Meditation, <hi>&amp;c.</hi> You have the greater Reaſon to take Care how you behave your ſelves in your Apprenticeſhip, becauſe 'tis an Age of Life wherein many have miſcarried, and laid the Foundation of their future Ruine.</p>
+            <p>Your Proſpect of many Advantages in the World, if you come to ſet up for your ſelves, muſt depend much upon Reputation; endeavour therefore to deſerve the Character of a Good and Faithful Servant, and you will reap the Fruit thereof.</p>
+            <p>Religion and Virtue will promote rather than hinder your well-being in the World; it will fortifie you againſt thoſe Vices that will ſoon reduce you to a Morſel of Bread. By being faithful to your Maſter, and to your own Soul, you will become a Bleſſing to the Family where the Providence of God has placed you, and the Bleſſing of God will abide upon you here, and you will be eternally happy hereafter; theſe things having not on<g ref="char:EOLhyphen"/>ly the Promiſe of this Life, but of that which is to come.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
